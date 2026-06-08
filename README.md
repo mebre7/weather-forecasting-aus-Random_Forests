@@ -7,6 +7,7 @@ A machine learning project focused on predicting whether it will rain tomorrow i
 This project implements a binary classification model to predict rainfall in Australia. Using historical weather data, the model learns patterns from various meteorological features to forecast whether it will rain the next day.
 
 The dataset used is the **weatherAUS.csv** dataset, which contains weather observations from multiple locations across Australia.
+- Source: [Kaggle - Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
 
 ## 🎯 Objective
 
