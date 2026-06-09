@@ -109,7 +109,7 @@ model.fit(X_train, y_train)
 | Metric | Score |
 |--------|-------|
 | Training Accuracy | ~100% |
-| Validation Accuracy | ~79.5% |
+| Validation Accuracy | ~84.5% |
 
 The initial model showed significant **overfitting** with a deep tree (49 layers).
 
@@ -141,7 +141,7 @@ model.fit(X_train, y_train)
 | Metric | Score |
 |--------|-------|
 | Training Accuracy | ~99.9% |
-| Validation Accuracy | ~85.6% |
+| Validation Accuracy | ~85.8% |
 
 Random Forest showed **better generalization** compared to a single Decision Tree, demonstrating the power of ensemble methods.
 
